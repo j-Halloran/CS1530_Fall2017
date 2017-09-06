@@ -20,14 +20,13 @@ Name: `Jake Halloran` Class start time: `3 PM MW`
 
 ```
 Brook's Law States that adding human resources to a late software project makes it later.
-
 ```
 
 4. "The system shall be able to run on Linux, FreeBSD, and OpenBSD systems." Is this an example of a program requirement or design constraint?  Why?
 
 ```
-This is a program requirement as it requires the program to run on the three listed Operating Systems but does not
-limit the program to just those 3 systems.
+This is a program requirement as it requires the program to run on the three listed Operating Systems 
+but does not limit the program to just those 3 systems.
 ```
 
 5. What are two __nontechnical__ considerations of software development and support covered by Tsui _et al_?
