@@ -10,7 +10,7 @@ Code Errors at 38.33%
 2. Which phase of software development do Tsui _et al_ recommend that we spend more time on?  Why this phase, and not the phase that is the most common origin of bugs?
 
 ```
-Tsui _et al_ recommend spending time focused on the requirements phase of the software as while bugs are
+Tsui et al recommend spending time focused on the requirements phase of the software as while bugs are
 introduced more often lateron simple software bugs can be more easily fixed than the huge amounts of time
 required to fix a project specification that was flawedfrom the beginning that went on to cause design
 flaws at each stage of development.
