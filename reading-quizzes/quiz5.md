@@ -18,7 +18,7 @@ Adjusting
 Using the Lorenz-Kidd OO estimation technique, estimate how long it will take (in person-days) to complete the project.  Show your work.
 
 ```
-20 Classes * 2.25 Simple GUI Weight * 16 Person-Days/class = 720 Person-days
+((20 Classes * 2.25 Simple GUI Weight)+ 20 Base Classes) * 16 Person-Days/class = 1040 Person-days
 
 ```
 
